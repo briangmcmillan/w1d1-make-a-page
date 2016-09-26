@@ -1,7 +1,31 @@
-.red-text {
+.title-text {
+    color: #433633;
+}
+.center-text {
+    text-align: center;
+}
+.italicized-text{
+    font-style: normal;
+}
+.littler-font{
+    font-style: italic;
+}
+.float-image {
+    float: right;;
+}
+.big-font {
+    font-size: 50px;
+}
+#nissan-gtr{
     color: red;
 }
-
-.big-font {
-    font-size: 500px;
+p {
+    color: black;
+}
+body {
+    background-color: white;
+    font-family: fantasy;
+}
+.h-colors{
+    color: #433633;
 }
